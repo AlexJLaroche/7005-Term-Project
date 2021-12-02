@@ -17,6 +17,8 @@ class Network:
 
     def start_connection(self):
         self.socket = UDP.create_server(self.conf.net_address,self.conf.net_port)
+        bit_error = int(input("Enter Bit error %: "))
+        print("Starting to Listen...")
         while(True):
             res_packet = UDP.get_packet(self.socket)
             packet_data = pickle.loads(res_packet[0])
@@ -24,7 +26,7 @@ class Network:
             self.total_packets += 1
 
             random_number = random.randint(1,100)
-            if  random_number <= self.conf.bit_error:
+            if  random_number <= bit_error:
                 if packet_data.packet_type == ".":
                     self.ack_dropped += 1
                 else:
