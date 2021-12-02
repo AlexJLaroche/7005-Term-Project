@@ -3,6 +3,9 @@ import pickle
 import packets
 import receiver_config
 from packets import UDP
+import logging
+
+logging.basicConfig(filename='Receiver.log', filemode='w', format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S',level=logging.INFO)
 
 class Receiver:
     def __init__(self):
@@ -10,55 +13,44 @@ class Receiver:
         self.seq_num = 0
         self.ack_num = 0
         self.packet_list = []
-        self.rx_buffer_seq = 0
-        self.rx_buffer_ack = 0
+        # self.rx_buffer_seq = []
+        self.rx_buffer_ack = []
         self.rx_buffer_packets = []
+        self.received_data = []
+        self.pre_ack = 0
+        self.dup_ack = 0
+        self.num_send_ack = 0
 
     # Try and remove?
     def create_packet(self, packet_type,window_size,seq_num=None, ack_num=None, p_data=""):
         packet = packets.Packet(self.conf.receive_address, self.conf.receive_port, self.conf.transmit_address, self.conf.transmit_port, packet_type, seq_num, p_data, window_size, ack_num)
         return packet
 
-    def SOT(self):
-        # RECEIVE SYN PACKET
-        # seq = 0, ack = none
-        packet_SYN = UDP.get_packet(self.socket)
-        packet_SYN_data = pickle.loads(packet_SYN[0])
-        UDP.format_packet(packet_SYN_data)
-        # if packet_SYN_data.packet_type == "S":
-
-        # SEND SYN/ACK PACKET
-        # seq = 0, ack = 1
-
-        
-        self.ack_num = packet_SYN_data.seq_num + 1
-        packet_SYN_ACK = self.create_packet("S.",1,seq_num=self.seq_num, ack_num=self.ack_num)
-        UDP.format_packet(packet_SYN_ACK)
-        UDP.send_packet(self.socket, packet_SYN_ACK)
-
-        # RECEIVE ACK PACKET
-        # seq = 1, ack = 1
-        packet_ACK = UDP.get_packet(self.socket)
-        packet_ACK_data = pickle.loads(packet_ACK[0])
-        UDP.format_packet(packet_ACK_data)
-
-        self.seq_num = packet_ACK_data.ack_num
-        self.ack_num = packet_ACK_data.seq_num
-
-
 
     def receive_data(self):
         # RECEIVE PUSH ACK
         packet_PSH_ACK = UDP.get_packet(self.socket)
         packet_PSH_ACK_data = pickle.loads(packet_PSH_ACK[0])
-        UDP.format_packet(packet_PSH_ACK_data)
+        if packet_PSH_ACK_data.seq_num != self.ack_num:
+            print("Duplicate ACK: ", end="")
+            logging.info("Duplicate ACK: ",)
+            self.dup_ack += 1
+        print(UDP.format_packet(packet_PSH_ACK_data))
+        logging.info(UDP.format_packet(packet_PSH_ACK_data))
+        
+        
 
         self.ack_num = packet_PSH_ACK_data.seq_num + len(packet_PSH_ACK_data.data)
         self.seq_num = packet_PSH_ACK_data.ack_num
-        
+        # for i in self.received_data:
+        #     if self.received_data[i] == self.seq_num:
+        #         print('Duplicate ACK: ')
+        #         UDP.format_packet(packet_PSH_ACK_data)
         packet_ACK = self.create_packet(".", packet_PSH_ACK_data.window_size, seq_num=self.seq_num, ack_num=self.ack_num, p_data="0")
-        UDP.format_packet(packet_ACK)
+        print(UDP.format_packet(packet_ACK))
+        logging.info(UDP.format_packet(packet_ACK))
         UDP.send_packet(self.socket, packet_ACK)
+        self.num_send_ack +=1
         if packet_PSH_ACK_data.packet_type == "E":
             raise Exception("EOT Received")
 
@@ -70,8 +62,9 @@ class Receiver:
             try:
                 self.receive_data()
             except Exception as e:
+                logging.info('EOT Received')
+                logging.info("Number of sent ACKs: {}".format(self.num_send_ack))
                 print(e)
-                print("Closing connection..")
                 
 
 

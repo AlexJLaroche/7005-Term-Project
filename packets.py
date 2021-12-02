@@ -58,4 +58,6 @@ class UDP:
         data = len(packet.data)
         
         packet_string = "IP {}:{} > {}:{}: Flags [{}], seq {}, ack {}, win {}, length {} ".format(src_address, src_port, dst_address, dst_port, flag, seq_num, ack_num, window_size, data)
-        print(packet_string)
+        # print(packet_string)
+        return packet_string
+        

@@ -7,6 +7,5 @@ transmit_port = 20002
 receive_address = '127.0.0.1'
 receive_port = 20003
 
-total_packet = 30
-window_size = 4
-timeout = 20
+average_length = 1
+bit_error = 0 # This indicates that 20% of packets will be dropped
