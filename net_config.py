@@ -8,4 +8,4 @@ receive_address = '127.0.0.1'
 receive_port = 20003
 
 average_length = 1
-bit_error = 50 # This indicates that 20% of packets will be dropped
+bit_error = 0 # This indicates that 20% of packets will be dropped

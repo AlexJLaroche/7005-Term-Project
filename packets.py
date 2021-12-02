@@ -1,17 +1,28 @@
 import socket
 import pickle
 import packets
-net_address = '127.0.0.1'
-net_port = 20001
 
 bufferSize = 1024
-# FLAGS
-# S  = SYN
-# S. = SYN/ACK
-# .  = ACK
-# P. = PSH/ACK
-# F. = FIN/ACK
+# FLAGS/packet_type
+# S  = Start of Transmission
+# P. = Push ACKs (Data being Sent)
+# .  = ACK, Data has been received
+# E  = End of Transmission
 #
+# Packet Obj Structure:
+#{
+#   src_address: string
+#   src_port: int
+#   dst_address: string
+#   dst_port: int
+#   packet_type: string
+#   seq_num: int
+#   ack_num: int
+#   data: string
+#   window_size: int
+# }
+#
+
 class Packet:
     def __init__(self, src_address, src_port, dst_address, dst_port, packet_type, seq_num, data, window_size, ack_num):
         self.src_address = src_address
@@ -28,24 +39,27 @@ class UDP:
     def __init__():
         pass
 
-
+    # ---Function: create_server----
+    # Return a socket created binded with the specified address and port
     def create_server(address, port):
         UDPClientSocket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         UDPClientSocket.bind((address,port)) 
         return UDPClientSocket
 
+    # ---Function: get_packet----
+    # Returns the packet received from buffer
     def get_packet(socket):
         packet = socket.recvfrom(bufferSize)
         return packet
 
-    def send_packet(socket,packet):
+    # ---Function: send_packet----
+    # Sends the specified packet to the network using the specified sockett
+    def send_packet(socket,packet,network):
             bytesToSend = pickle.dumps(packet)
-            socket.sendto(bytesToSend, (net_address, net_port))
-    
-    def create_packet(self,packet_type,seq_num=None, ack_num=None, p_data=""):
-        packet = packets.Packet(self.conf.receive_address, self.conf.receive_port, self.conf.transmit_address, self.conf.transmit_port, packet_type, seq_num, p_data, self.conf.window_size, ack_num)
-        return packet
+            socket.sendto(bytesToSend, network)
 
+    # ---Function: send_packet----
+    # Return a string formatted with all the packet information 
     def format_packet(packet):
         src_address = packet.src_address
         src_port = packet.src_port
@@ -58,6 +72,5 @@ class UDP:
         data = len(packet.data)
         
         packet_string = "IP {}:{} > {}:{}: Flags [{}], seq {}, ack {}, win {}, length {} ".format(src_address, src_port, dst_address, dst_port, flag, seq_num, ack_num, window_size, data)
-        # print(packet_string)
         return packet_string
         

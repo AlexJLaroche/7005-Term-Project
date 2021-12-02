@@ -8,6 +8,6 @@ receive_address = '127.0.0.1'
 receive_port = 20003
 
 total_packet = 30
-window_size = 8
+window_size = 4 # must be values like 1,2,4,8,16.....
 timeout = 10
 max_packet_size = 4
