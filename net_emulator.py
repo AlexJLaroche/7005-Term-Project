@@ -35,8 +35,8 @@ class Network:
                 print(UDP.format_packet(packet_data))
                 print("Number of Data Packets dropped: ", self.data_packet_dropped)
                 print("Number of ACK Packets dropped: ", self.ack_dropped)
-                dropped_percentage = (self.ack_dropped+self.data_packet_dropped)/self.total_packets
-                print("Packets Dropped Percentage: ", dropped_percentage)
+                dropped_percentage = ((self.ack_dropped+self.data_packet_dropped)/self.total_packets)*100
+                print("Packets Dropped Percentage: {}%".format(dropped_percentage))
 
             else:
                 time.sleep(self.conf.average_length)  
