@@ -14,11 +14,11 @@ class Network:
         self.total_packets = 0
 
 # ---Function: start_connection----
-# 1. Initializes a server and binds it to the network addess and port 
+# 1. Initializes a server and binds it to the network address and port 
 #    specified in the configuration file.
 # 2. The User is then prompted a required input where they must specify 
 #    the Bit Rate Error Percentage.
-# 3. While the there is a connection, listen for packets.
+# 3. While there is a connection, listen for packets.
 # 4. When the packets arrive, determine if the packet is dropped (Specified by Bit Error Rate)
 # 5. If the packet is lost, simply print the lost packet and return to listening for packets
 # 6. If the packet is NOT lost, then send the Receiver message to the Transmitter or send the 

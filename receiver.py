@@ -34,7 +34,7 @@ class Receiver:
     #    and the length of data
     # 4. Create an ACK packet (".") and send the packet to the network emulator. 
     # 5. If the Packet Type is "E" then raise an exception which logs the Number 
-    #    of sent ACKs over the transmittion.
+    #    of sent ACKs over the transmission.
     def receive_data(self):
         packet_PSH_ACK = UDP.get_packet(self.socket) #1
         packet_PSH_ACK_data = pickle.loads(packet_PSH_ACK[0])
@@ -59,11 +59,11 @@ class Receiver:
             raise Exception("EOT Received")
 
     # ---Function: start_connection----
-    # 1. Initializes a server and binds it to the network addess and port 
+    # 1. Initializes a server and binds it to the network address and port 
     #    specified in the configuration file.
-    # 2. While the receiver is listening, Allow Packets to be Receieved
+    # 2. While the receiver is listening, Allow Packets to be Received
     # 3. If the Packet Type is "E" then raise an exception which logs the Number 
-    #    of sent ACKs over the transmittion.
+    #    of sent ACKs over the transmission.
     def start_connection(self):
         self.socket = UDP.create_server(self.conf.receive_address, self.conf.receive_port)#1
         receiver_listen = True#2
