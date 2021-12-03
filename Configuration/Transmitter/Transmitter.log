@@ -1,0 +1,635 @@
+02-Dec-21 17:14:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:15:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:15:05 - Retransmitting: 
+02-Dec-21 17:15:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:15:15 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:15:15 - Retransmitting: 
+02-Dec-21 17:15:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:15:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:15:25 - Retransmitting: 
+02-Dec-21 17:15:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:15:35 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:15:35 - Retransmitting: 
+02-Dec-21 17:15:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:15:45 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:15:45 - Retransmitting: 
+02-Dec-21 17:15:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:15:55 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:15:55 - Retransmitting: 
+02-Dec-21 17:15:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:16:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:16:05 - Retransmitting: 
+02-Dec-21 17:16:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:16:15 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:16:15 - Retransmitting: 
+02-Dec-21 17:16:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:16:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:16:25 - Retransmitting: 
+02-Dec-21 17:16:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:16:35 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:16:35 - Retransmitting: 
+02-Dec-21 17:16:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:16:45 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:16:45 - Retransmitting: 
+02-Dec-21 17:16:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:16:55 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:16:55 - Retransmitting: 
+02-Dec-21 17:16:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:17:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:17:05 - Retransmitting: 
+02-Dec-21 17:17:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:17:15 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:17:15 - Retransmitting: 
+02-Dec-21 17:17:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:17:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:17:25 - Retransmitting: 
+02-Dec-21 17:17:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [S], seq 0, ack 0, win 1, length 1 
+02-Dec-21 17:17:27 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 0, ack 1, win 1, length 1 
+02-Dec-21 17:17:48 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:17:58 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:17:58 - Retransmitting: 
+02-Dec-21 17:17:58 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:18:08 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:18:08 - Retransmitting: 
+02-Dec-21 17:18:08 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:18:18 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:18:18 - Retransmitting: 
+02-Dec-21 17:18:18 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:18:28 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:18:28 - Retransmitting: 
+02-Dec-21 17:18:28 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:18:38 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:18:38 - Retransmitting: 
+02-Dec-21 17:18:38 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:18:48 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:18:48 - Retransmitting: 
+02-Dec-21 17:18:48 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:18:58 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:18:58 - Retransmitting: 
+02-Dec-21 17:18:58 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:19:08 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:19:08 - Retransmitting: 
+02-Dec-21 17:19:08 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:19:18 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:19:18 - Retransmitting: 
+02-Dec-21 17:19:18 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:19:28 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:19:28 - Retransmitting: 
+02-Dec-21 17:19:28 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:19:38 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:19:38 - Retransmitting: 
+02-Dec-21 17:19:38 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:19:48 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:19:48 - Retransmitting: 
+02-Dec-21 17:19:48 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:19:58 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:19:58 - Retransmitting: 
+02-Dec-21 17:19:58 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:20:08 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:20:08 - Retransmitting: 
+02-Dec-21 17:20:08 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:20:18 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:20:18 - Retransmitting: 
+02-Dec-21 17:20:18 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:20:28 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:20:28 - Retransmitting: 
+02-Dec-21 17:20:28 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:20:38 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:20:38 - Retransmitting: 
+02-Dec-21 17:20:38 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 1, ack 1, win 1, length 4 
+02-Dec-21 17:20:41 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 1, ack 5, win 1, length 1 
+02-Dec-21 17:20:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:20:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:20:51 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:20:51 - Retransmitting: 
+02-Dec-21 17:20:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:20:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:21:01 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:21:01 - Retransmitting: 
+02-Dec-21 17:21:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:21:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:21:11 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:21:11 - Retransmitting: 
+02-Dec-21 17:21:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:21:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:21:21 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:21:21 - Retransmitting: 
+02-Dec-21 17:21:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:21:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:21:31 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:21:31 - Retransmitting: 
+02-Dec-21 17:21:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:21:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:21:41 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:21:41 - Retransmitting: 
+02-Dec-21 17:21:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:21:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:21:51 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:21:51 - Retransmitting: 
+02-Dec-21 17:21:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:21:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:22:01 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:22:01 - Retransmitting: 
+02-Dec-21 17:22:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:22:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:22:11 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:22:11 - Retransmitting: 
+02-Dec-21 17:22:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:22:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:22:21 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:22:21 - Retransmitting: 
+02-Dec-21 17:22:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:22:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:22:31 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:22:31 - Retransmitting: 
+02-Dec-21 17:22:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:22:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:22:41 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:22:41 - Retransmitting: 
+02-Dec-21 17:22:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:22:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:22:51 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:22:51 - Retransmitting: 
+02-Dec-21 17:22:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:22:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:23:01 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:23:01 - Retransmitting: 
+02-Dec-21 17:23:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:23:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:23:11 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:23:11 - Retransmitting: 
+02-Dec-21 17:23:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:23:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:23:21 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:23:21 - Retransmitting: 
+02-Dec-21 17:23:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:23:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:23:31 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:23:31 - Retransmitting: 
+02-Dec-21 17:23:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:23:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:23:41 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:23:41 - Retransmitting: 
+02-Dec-21 17:23:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:23:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:23:51 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:23:51 - Retransmitting: 
+02-Dec-21 17:23:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:23:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:24:01 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:24:01 - Retransmitting: 
+02-Dec-21 17:24:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:24:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:24:11 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:24:11 - Retransmitting: 
+02-Dec-21 17:24:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:24:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:24:21 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:24:21 - Retransmitting: 
+02-Dec-21 17:24:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:24:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:24:31 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:24:31 - Retransmitting: 
+02-Dec-21 17:24:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:24:31 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:24:41 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:24:41 - Retransmitting: 
+02-Dec-21 17:24:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:24:41 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:24:51 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:24:51 - Retransmitting: 
+02-Dec-21 17:24:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:24:51 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:25:01 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:25:01 - Retransmitting: 
+02-Dec-21 17:25:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:25:01 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:25:11 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:25:11 - Retransmitting: 
+02-Dec-21 17:25:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:25:11 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:25:21 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:25:21 - Retransmitting: 
+02-Dec-21 17:25:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:25:21 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:25:24 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 11, win 2, length 1 
+02-Dec-21 17:25:34 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:25:34 - Retransmitting: 
+02-Dec-21 17:25:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:25:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:25:44 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:25:44 - Retransmitting: 
+02-Dec-21 17:25:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:25:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:25:54 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:25:54 - Retransmitting: 
+02-Dec-21 17:25:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:25:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:26:04 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:26:04 - Retransmitting: 
+02-Dec-21 17:26:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:26:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:26:14 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:26:14 - Retransmitting: 
+02-Dec-21 17:26:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:26:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:26:24 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:26:24 - Retransmitting: 
+02-Dec-21 17:26:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:26:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:26:34 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:26:34 - Retransmitting: 
+02-Dec-21 17:26:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:26:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:26:44 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:26:44 - Retransmitting: 
+02-Dec-21 17:26:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:26:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:26:54 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:26:54 - Retransmitting: 
+02-Dec-21 17:26:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:26:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:27:04 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:27:04 - Retransmitting: 
+02-Dec-21 17:27:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:27:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:27:14 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:27:14 - Retransmitting: 
+02-Dec-21 17:27:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:27:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:27:24 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:27:24 - Retransmitting: 
+02-Dec-21 17:27:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:27:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:27:34 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:27:34 - Retransmitting: 
+02-Dec-21 17:27:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:27:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:27:44 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:27:44 - Retransmitting: 
+02-Dec-21 17:27:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:27:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:27:54 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:27:54 - Retransmitting: 
+02-Dec-21 17:27:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:27:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:28:04 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:28:04 - Retransmitting: 
+02-Dec-21 17:28:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:28:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:28:14 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:28:14 - Retransmitting: 
+02-Dec-21 17:28:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:28:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:28:24 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:28:24 - Retransmitting: 
+02-Dec-21 17:28:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:28:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:28:34 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:28:34 - Retransmitting: 
+02-Dec-21 17:28:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:28:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:28:44 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:28:44 - Retransmitting: 
+02-Dec-21 17:28:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:28:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:28:47 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 9, win 2, length 1 
+02-Dec-21 17:28:57 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:28:57 - Retransmitting: 
+02-Dec-21 17:28:57 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:28:57 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:29:07 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:29:07 - Retransmitting: 
+02-Dec-21 17:29:07 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:29:07 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:29:17 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:29:17 - Retransmitting: 
+02-Dec-21 17:29:17 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:29:17 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:29:27 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:29:27 - Retransmitting: 
+02-Dec-21 17:29:27 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:29:27 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:29:37 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:29:37 - Retransmitting: 
+02-Dec-21 17:29:37 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:29:37 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:29:47 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:29:47 - Retransmitting: 
+02-Dec-21 17:29:47 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:29:47 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:29:57 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:29:57 - Retransmitting: 
+02-Dec-21 17:29:57 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:29:57 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:30:07 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:30:07 - Retransmitting: 
+02-Dec-21 17:30:07 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:30:07 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:30:17 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:30:17 - Retransmitting: 
+02-Dec-21 17:30:17 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:30:17 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:30:27 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:30:27 - Retransmitting: 
+02-Dec-21 17:30:27 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:30:27 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:30:30 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 9, win 2, length 1 
+02-Dec-21 17:30:40 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:30:40 - Retransmitting: 
+02-Dec-21 17:30:40 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:30:40 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:30:50 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:30:50 - Retransmitting: 
+02-Dec-21 17:30:50 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:30:50 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:30:52 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 11, win 2, length 1 
+02-Dec-21 17:31:02 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:31:02 - Retransmitting: 
+02-Dec-21 17:31:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:31:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:31:12 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:31:12 - Retransmitting: 
+02-Dec-21 17:31:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:31:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:31:22 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:31:22 - Retransmitting: 
+02-Dec-21 17:31:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:31:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:31:32 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:31:32 - Retransmitting: 
+02-Dec-21 17:31:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:31:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:31:42 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:31:42 - Retransmitting: 
+02-Dec-21 17:31:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:31:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:31:52 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:31:52 - Retransmitting: 
+02-Dec-21 17:31:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:31:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:32:02 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:32:02 - Retransmitting: 
+02-Dec-21 17:32:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:32:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:32:05 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 11, win 2, length 1 
+02-Dec-21 17:32:15 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:32:15 - Retransmitting: 
+02-Dec-21 17:32:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:32:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:32:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:32:25 - Retransmitting: 
+02-Dec-21 17:32:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:32:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:32:35 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:32:35 - Retransmitting: 
+02-Dec-21 17:32:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:32:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:32:45 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:32:45 - Retransmitting: 
+02-Dec-21 17:32:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:32:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:32:47 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 11, win 2, length 1 
+02-Dec-21 17:32:57 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:32:57 - Retransmitting: 
+02-Dec-21 17:32:57 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:32:57 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:33:07 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:33:07 - Retransmitting: 
+02-Dec-21 17:33:07 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:33:07 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:33:09 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 9, win 2, length 1 
+02-Dec-21 17:33:19 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:33:19 - Retransmitting: 
+02-Dec-21 17:33:19 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:33:19 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:33:29 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:33:29 - Retransmitting: 
+02-Dec-21 17:33:29 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:33:29 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:33:32 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 9, win 2, length 1 
+02-Dec-21 17:33:42 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:33:42 - Retransmitting: 
+02-Dec-21 17:33:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:33:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:33:52 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:33:52 - Retransmitting: 
+02-Dec-21 17:33:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:33:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:34:02 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:34:02 - Retransmitting: 
+02-Dec-21 17:34:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:34:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:34:12 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:34:12 - Retransmitting: 
+02-Dec-21 17:34:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:34:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:34:22 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:34:22 - Retransmitting: 
+02-Dec-21 17:34:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:34:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:34:32 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:34:32 - Retransmitting: 
+02-Dec-21 17:34:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:34:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:34:42 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:34:42 - Retransmitting: 
+02-Dec-21 17:34:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:34:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:34:52 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:34:52 - Retransmitting: 
+02-Dec-21 17:34:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:34:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:35:02 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:35:02 - Retransmitting: 
+02-Dec-21 17:35:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:35:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:35:12 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:35:12 - Retransmitting: 
+02-Dec-21 17:35:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:35:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:35:22 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:35:22 - Retransmitting: 
+02-Dec-21 17:35:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:35:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:35:32 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:35:32 - Retransmitting: 
+02-Dec-21 17:35:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:35:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:35:42 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:35:42 - Retransmitting: 
+02-Dec-21 17:35:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:35:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:35:52 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:35:52 - Retransmitting: 
+02-Dec-21 17:35:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:35:52 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:36:02 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:36:02 - Retransmitting: 
+02-Dec-21 17:36:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:36:02 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:36:12 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:36:12 - Retransmitting: 
+02-Dec-21 17:36:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:36:12 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:36:22 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:36:22 - Retransmitting: 
+02-Dec-21 17:36:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:36:22 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:36:32 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:36:32 - Retransmitting: 
+02-Dec-21 17:36:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:36:32 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:36:42 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:36:42 - Retransmitting: 
+02-Dec-21 17:36:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:36:42 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:36:44 - IP 192.168.1.200:7005 > 192.168.1.88:7005: Flags [.], seq 2, ack 11, win 2, length 1 
+02-Dec-21 17:36:54 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:36:54 - Retransmitting: 
+02-Dec-21 17:36:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:36:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:37:04 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:37:04 - Retransmitting: 
+02-Dec-21 17:37:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:37:04 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:37:14 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:37:14 - Retransmitting: 
+02-Dec-21 17:37:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:37:14 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:37:24 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:37:24 - Retransmitting: 
+02-Dec-21 17:37:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:37:24 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:37:34 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:37:34 - Retransmitting: 
+02-Dec-21 17:37:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:37:34 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:37:44 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:37:44 - Retransmitting: 
+02-Dec-21 17:37:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:37:44 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:37:54 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:37:54 - Retransmitting: 
+02-Dec-21 17:37:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:37:54 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:38:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:38:05 - Retransmitting: 
+02-Dec-21 17:38:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:38:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:38:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:38:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:38:25 - Retransmitting: 
+02-Dec-21 17:38:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:38:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:38:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:38:35 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:38:35 - Retransmitting: 
+02-Dec-21 17:38:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:38:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:38:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:38:45 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:38:45 - Retransmitting: 
+02-Dec-21 17:38:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:38:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:38:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:38:55 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:38:55 - Retransmitting: 
+02-Dec-21 17:38:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:38:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:38:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:39:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:39:05 - Retransmitting: 
+02-Dec-21 17:39:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:39:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:39:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:39:15 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:39:15 - Retransmitting: 
+02-Dec-21 17:39:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:39:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:39:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:39:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:39:25 - Retransmitting: 
+02-Dec-21 17:39:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:39:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:39:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:39:35 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:39:35 - Retransmitting: 
+02-Dec-21 17:39:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:39:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:39:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:39:45 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:39:45 - Retransmitting: 
+02-Dec-21 17:39:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:39:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:39:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:39:55 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:39:55 - Retransmitting: 
+02-Dec-21 17:39:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:39:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:39:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:40:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:40:05 - Retransmitting: 
+02-Dec-21 17:40:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:40:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:40:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:40:15 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:40:15 - Retransmitting: 
+02-Dec-21 17:40:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:40:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:40:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:40:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:40:25 - Retransmitting: 
+02-Dec-21 17:40:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:40:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:40:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:40:35 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:40:35 - Retransmitting: 
+02-Dec-21 17:40:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:40:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:40:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:40:45 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:40:45 - Retransmitting: 
+02-Dec-21 17:40:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:40:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:40:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:40:55 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:40:55 - Retransmitting: 
+02-Dec-21 17:40:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:40:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:40:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:41:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:41:05 - Retransmitting: 
+02-Dec-21 17:41:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:41:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:41:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:41:15 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:41:15 - Retransmitting: 
+02-Dec-21 17:41:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:41:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:41:15 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:41:25 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:41:25 - Retransmitting: 
+02-Dec-21 17:41:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:41:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:41:25 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:41:35 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:41:35 - Retransmitting: 
+02-Dec-21 17:41:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:41:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:41:35 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:41:45 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:41:45 - Retransmitting: 
+02-Dec-21 17:41:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:41:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:41:45 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:41:55 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:41:55 - Retransmitting: 
+02-Dec-21 17:41:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:41:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:41:55 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
+02-Dec-21 17:42:05 - SOCKET TIMED OUT RETRANSIMTTING.....
+02-Dec-21 17:42:05 - Retransmitting: 
+02-Dec-21 17:42:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 5, ack 2, win 2, length 4 
+02-Dec-21 17:42:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [P.], seq 9, ack 2, win 2, length 2 
+02-Dec-21 17:42:05 - IP 192.168.1.88:7005 > 192.168.1.200:7005: Flags [E], seq 5, ack 2, win 1, length 1 
