@@ -73,7 +73,7 @@ class Transmitter:
     # 1. Create an PUSH ACK packet ("P.") using the provided data, 
     #    and send the packet to the network emulator. 
     # 2. Setting the Sequence Number to Sequence Number + the length of the Packet Data
-    # 3. Appends the PUSH ACK to the Buffer List used for Retransmittion 
+    # 3. Appends the PUSH ACK to the Buffer List used for Retransmission 
     def send_data(self, data, packet_type):
         packet_PSH_ACK = self.create_packet(packet_type, self.window_size, seq_num=self.seq_num, ack_num=self.ack_num, p_data=data) #1
         print(UDP.format_packet(packet_PSH_ACK))
@@ -89,7 +89,7 @@ class Transmitter:
 
 
     # ---Function: receive_ack----
-    # 1. Set a timeout for the socket's listening to indicate the need for a Retransmittion
+    # 1. Set a timeout for the socket's listening to indicate the need for a Retransmission
     # 2. Receive ACK and set the Sequence Number and ACK Number.
     # 3. If the socket timeouts then set that the order is False and Retransmitting will begin
     def receive_ack(self):
@@ -106,7 +106,7 @@ class Transmitter:
             print("SOCKET TIMED OUT RETRANSIMTTING.....")
             logging.info('SOCKET TIMED OUT RETRANSIMTTING.....')
             
-    # ---Function: receive_ack----
+    # ---Function: retransmit_packets----
     # 1. Sets The Order to True
     # 2. Send the packets from the Saved Buffer
     def retransmit_packets(self):
@@ -150,13 +150,13 @@ class Transmitter:
     
 
     # ---Function: start_connection----
-    # 1. Initializes a server and binds it to the network addess and port 
+    # 1. Initializes a server and binds it to the network address and port 
     #    specified in the configuration file.
     # 2. Sends an SOT to indicate that the transmitter will start sending Data
     # 3. While there is a connection, have the user input data to send, 
     #    call the function split_data on the Data Entered, and the call the function 
     #    transmit to transmit the data
-    # 4. If a Keyboard Interupt Occurs, Transmit the EOT, Receive the ACK, then Exit the script
+    # 4. If a Keyboard Interrupt Occurs, Transmit the EOT, Receive the ACK, then Exit the script
     def start_connection(self):
         self.socket = UDP.create_server(self.conf.transmit_address, self.conf.transmit_port) #1
         print("Starting Connection...")
